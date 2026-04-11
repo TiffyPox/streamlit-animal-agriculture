@@ -4,6 +4,8 @@ Over the past 50 years, global meat production has more than tripled, with over 
 
 This Streamlit application makes predictions on the Earth's future CO² emissions in the next 50 years from animal agriculture.
 
+https://app-animal-agriculture.streamlit.app/
+
 ## 🚀 The Model
 Using a **Random Forest** model and datasets provided by the FAO and Our World in Data, this model is trained using extensive data from 173 countries around the world. The data includes: the total population, the number of land animals slaughtered for meat, the resources used for animal agriculture (Land and Water), as well as the greenhouse gases emitted.
 
