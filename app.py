@@ -6,7 +6,7 @@ import joblib
 # Setting the page title and icon
 st.set_page_config(
     page_title="Animal Agriculture",
-    page_icon="earth_africa"
+    page_icon="🌍"
 )
 
 # Load my model
