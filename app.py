@@ -3,6 +3,12 @@ import streamlit as st
 import pandas as pd
 import joblib
 
+# Setting the page title and icon
+st.set_page_config(
+    page_title="Animal Agriculture",
+    page_icon="🌏"
+)
+
 # Load my model
 model = joblib.load('best_model.pkl')
 
